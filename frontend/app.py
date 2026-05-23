@@ -1,7 +1,7 @@
 import streamlit as st
 import requests
 
-BACKEND_URL = "https://scribe-padded-skincare.ngrok-free.dev/generate_email"
+BACKEND_URL = "https://scribe-padded-skincare.ngrok-free.dev/"
 
 st.set_page_config(
     page_title="PersonaMail AI",
